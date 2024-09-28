@@ -1,4 +1,4 @@
-# Lyrics Mood Classification Project
+# Lyrics Mood Classification Project (Research Project)
 
 This project focuses on building and evaluating models for mood classification of song lyrics using both traditional machine learning and deep learning techniques. The project includes various stages such as data collection, preprocessing, feature extraction, model training, and evaluation.
 
